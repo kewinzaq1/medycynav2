@@ -1,3 +1,3 @@
 # medycynav2
 
-THis is v2 medycynasilowa
+medycynasilowa 31.10.21
